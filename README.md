@@ -1,23 +1,38 @@
-# Upscaler - AI
+# 🧠 Image Upscaler - AI Based
 
-## Dependencies 
- - [raylib](https://github.com/raysan5/raylib)
-## Target
-- Make a program that can upscale any image (grayscale for now) upto any dimensions.
-- Learn Machine Learning and GUI development along with this.
+A C++ project to upscale grayscale images to higher dimensions using foundational neural network concepts and custom GUI integration.
 
-## Plan
+---
 
-- All the design decisions are [linked here](./docs/DESIGN%20CHOICES.md)
-- Progress of the project is [listed here](./docs/PROGRESS.md).
+## 📦 Dependencies
+- [raylib](https://github.com/raysan5/raylib) — for graphics and GUI rendering
 
-## Courtesy
+---
 
-Thanks to Alexey Kutepov for this idea and a wonderful journey of Machine Learning.
+## 🎯 Project Goals
 
-## Contributors
+- Develop an image upscaling tool for grayscale images.
+- Build a basic understanding of Machine Learning implementation in C++.
+- Learn and integrate GUI development for user interaction.
 
-### [__Vraj Patel__](https://github.com/vrajpat3ll)
+---
+
+## 🛠️ Development Plan
+
+- 📄 All design decisions are outlined [here](./docs/DESIGN%20CHOICES.md)
+- 📊 Track progress and milestones [here](./docs/PROGRESS.md)
+
+---
 
 
-MNIST dataset: https://www.kaggle.com/datasets/jidhumohan/mnist-png 
+
+---
+
+## 📚 Dataset Used
+
+- [MNIST Dataset (PNG format)](https://www.kaggle.com/datasets/jidhumohan/mnist-png)
+
+---
+
+
+
